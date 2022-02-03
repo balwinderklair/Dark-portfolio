@@ -320,6 +320,8 @@ Go to `/index.html` and fill your information, there are 6 sections:
           <div class="skills__skill">PHOTOSHOP</div>
           <div class="skills__skill">ILLUSTRATOR</div>
           <div class="skills__skill">CANVA</div>
+          <div class="skills__skill">FACEBOOK ADS</div>
+          <div class="skills__skill">GOOGLE ADS</div>
         </div>
       </div>
     </div>
