@@ -1,11 +1,14 @@
 .home-hero {
   color: #fff;
-  background: linear-gradient(
-      to right,
-      rgba($themeClrPrimary, 0.8),
-      rgba($themeClrPrimary, 0.8)
-    ),
-    url(../../assets/svg/common-bg.svg);
+  // background: linear-gradient(
+  //     to right,
+  //     rgba($themeClrPrimary, 0.8),
+  //     rgba($themeClrPrimary, 0.8)
+  //   ),
+  //   url(../../assets/svg/common-bg.svg);
+
+  background-image: url('https://png.pngtree.com/background/20210712/original/pngtree-abstract-modern-neon-frame-background-picture-image_1178251.jpg');
+
   background-position: center;
 
   height: 100vh;
